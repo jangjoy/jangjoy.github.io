@@ -15,18 +15,18 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale                   : "ko-KR"
+title                    : "습관은 가치가 된다."
+title_separator          : ""
+subtitle                 : "Version 1.0.1"
+name                     : "JANG JOY"
+description              : "가치있는 일을 위해 습관적으로 공부하고 기록하는 개발로그"
+url                      : "https://jangjoy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jangjoy/jangjoy.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "습관은 가치가 된다."
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
