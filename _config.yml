@@ -97,8 +97,8 @@ author:
   name             : "Joy Jang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "가치있는 일을 위해 습관적으로 공부하고 기록하는 개발로그"
-  location         : ""
-  email            : "osomang1111@gmail.com"
+  location         : "South Korea"
+ # email            : "osomang1111@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
