@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "습관은 가치가 된다."
 title_separator          : ""
-subtitle                 : "Version 1.0.1"
+subtitle                 : "My habits become my values."
 name                     : "JANG JOY"
 description              : "가치있는 일을 위해 습관적으로 공부하고 기록하는 개발로그"
 url                      : "https://jangjoy.github.io"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Joy Jang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "가치있는 일을 위해 습관적으로 공부하고 기록하는 개발로그"
+  location         : ""
+  email            : "osomang1111@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
